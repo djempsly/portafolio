@@ -7,6 +7,10 @@ const Home = () =>{
     return(
         <>
         <h1>{t("home.title")}</h1>
+        <p> {t()} </p>
+
+
+
         <p>Hola, soy Jeffry Almonte
 Full-Stack Developer | Cybersecurity Enthusiast | Educador | Contador | Diseñador Gráfico
 
@@ -17,7 +21,7 @@ Desarrollo aplicaciones web y móviles modernas, analizo datos, gestiono sistema
 
 <div className="container mx-auto px-4 py-20 grid md:grid-cols-2 gap-10">
   <div>
-    <h1 className="text-4xl md:text-5xl font-bold w-200">Hola, soy Jeffry Almonte Dely</h1>
+    <h1 className="text-4xl md:text-5xl font-bold w-200"> {t("home.title")} </h1>
     <p className="text-slate-300 mt-4">Full-Stack Developer & Cybersecurity Enthusiast</p>
   </div>
   <img src={jeffry1} className="w-100 h-100 rounded-full shadow-xl" />
