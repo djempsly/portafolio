@@ -1,7 +1,106 @@
 {
   "home": {
-    "title": "Hello, I'm Jeffry Almonte Dely",
-    "subtitle": "Full-Stack Developer & Cybersecurity Enthusiast",
-    "cta": "View Projects"
+    "title": "Welcome to my portfolio",
+    "subtitle": "I'm a Full-Stack developer and multidisciplinary professional.",
+    "cta": {
+      "viewProjects": "View my projects",
+      "downloadCV": "Download CV",
+      "contactMe": "Contact me",
+      "buildWithMe": "Let's build something amazing",
+      "talkProject": "Let's talk about your project",
+      "hireMe": "Hire me as a developer"
+    }
+  },
+
+  "about": {
+    "title": "About me",
+    "cta": {
+      "learnMore": "Learn more about me",
+      "readBackground": "Read my background",
+      "exploreSkills": "Explore skills"
+    },
+
+  "description": "I am a Full-Stack developer with experience in programming, education, accounting, cybersecurity, and administration. I combine technical skills with leadership, languages, and strong professional background.",
+  "cards": {
+    "experience": {
+      "title": "Experience",
+      "text": "14 years in education, 8 years as a teacher, 3 as coordinator, professional accountant and software developer."
+    },
+    "education": {
+      "title": "Education",
+      "text": "Cisco courses, cybersecurity studies, programming in multiple languages, and cloud computing experience."
+    },
+    "languages": {
+      "title": "Languages",
+      "text": "Native Spanish, upper-intermediate English, advanced French, and Haitian Creole."
+    }
   }
+  },
+
+  "projects": {
+  "title": "My Projects",
+  "subtitle": "Here is a selection of the projects I have worked on, using modern technologies and good development practices.",
+  "items": {
+    "lhamsdj": "My personal website built from scratch, deployed on AWS, secured with Cloudflare, and configured with SSL certificate.",
+    "portfolio": "This modern, responsive, animated professional portfolio.",
+    "mobileApp": "Mobile application developed for my business, available for Android and macOS."
+  },
+
+    "cta": {
+      "viewDetails": "View details",
+      "exploreProject": "Explore project",
+      "github": "View on GitHub",
+      "demo": " View demo"
+    }
+  },
+
+
+  "skills": {
+    "title": "Skills",
+    "cta": {
+      "viewAll": "See all my skills",
+      "technologies": "Technologies I work with"
+    },
+  "subtitle": "These are the technologies, tools and disciplines in which I have professional experience.",
+  "categories": {
+    "frontend": { "title": "Frontend" },
+    "backend": { "title": "Backend" },
+    "tools": { "title": "Tools & Cloud" },
+    "extra": { "title": "Extras" }
+  }
+  },
+
+  "profile": {
+  "title": "Professional Profile",
+  "description": "I am a full-stack developer, accountant, educator, and technology specialist with strong experience across multiple professional fields.",
+  "experience": {
+    "title": "Experience",
+    "text": "14 years in education\n8 years as a teacher\n3 years as coordinator\nProfessional accountant\nSoftware developer"
+  },
+  "languages": {
+    "title": "Languages",
+    "text": "Native Spanish\nUpper-Intermediate English\nAdvanced French\nHaitian Creole"
+  },
+  "cta": { "cv": "Download CV" }
+},
+
+"contact": {
+  "title": "Contact",
+  "subtitle": "Do you have a project, idea or proposal? Write me.",
+  "fields": {
+    "name": "Your name",
+    "email": "Your email",
+    "message": "Your message"
+  },
+    "cta": {
+      "sendMessage": "Send message",
+      "letsTalk": "Let's talk",
+      "bookCall": "Book a call",
+      "alert": " Message sent successfully "
+    }
 }
+}
+
+
+
+

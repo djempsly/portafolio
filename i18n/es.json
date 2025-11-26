@@ -1,8 +1,105 @@
+
+
 {
   "home": {
-    "title": "Jeffry Almonte Dely",
-    "subtitle": "Desarrollador Full-Stack y Entusiasta de Ciberseguridad",
-    "parrafo":"Mi perfil es eso",
-    "cta": "Ver proyectos"
+    "title": "Bienvenido a mi portafolio",
+    "subtitle": "Soy un desarrollador Full-Stack y profesional multidisciplinario.",
+    "cta": {
+      "viewProjects": "Ver mis proyectos",
+      "downloadCV": "Descargar CV",
+      "contactMe": "Contáctame",
+      "buildWithMe": "Construyamos algo increíble",
+      "talkProject": "Hablemos de tu proyecto",
+      "hireMe": "Contrátame como desarrollador"
+    }
+  },
+
+  "about": {
+    "cta": {
+      "learnMore": "Saber más sobre mí",
+      "readBackground": "Leer mi trayectoria",
+      "exploreSkills": "Explorar habilidades"
+    },
+      "title": "Sobre mí",
+      "description": "Soy un desarrollador Full-Stack con experiencia en programación, educación, contabilidad, ciberseguridad y administración. Combino habilidades técnicas con liderazgo, idiomas y una sólida formación profesional.",
+      "cards": {
+        "experience": {
+          "title": "Experiencia",
+          "text": "14 años en educación, 8 años como profesor, 3 como coordinador, contable profesional y desarrollador de software."
+        },
+        "education": {
+          "title": "Formación",
+          "text": "Cursos Cisco, estudios en ciberseguridad, programación en múltiples lenguajes, experiencia en cloud computing."
+        },
+        "languages": {
+          "title": "Idiomas",
+          "text": "Español nativo, inglés nivel upper-intermediate, francés avanzado y creole haitiano."
+        }
+      }
+  },
+
+  "projects": {
+    "title": "Proyectos",
+    "cta": {
+      "viewDetails": "Ver detalles",
+      "exploreProject": "Explorar proyecto",
+      "github": "Código en GitHub",
+        "demo": "Ver demo",
+        "title": "Mis Proyectos",
+        "subtitle": "Aquí tienes una selección de los proyectos en los que he trabajado utilizando tecnologías modernas y buenas prácticas.",
+        "items": {
+        "lhamsdj": "Mi página web personal programada desde cero, con despliegue en AWS, seguridad con Cloudflare y certificado SSL.",
+        "portfolio": "Este portafolio profesional moderno, responsive y animado.",
+        "mobileApp": "Aplicación móvil desarrollada para mi negocio, disponible para Android y macOS."
+    }
   }
+  },
+
+  "skills": {
+    "title": "Habilidades",
+    "subtitle": "Estas son las tecnologías, herramientas y disciplinas en las que tengo experiencia profesional.",
+    "categories": {
+      "frontend": { "title": "Frontend" },
+      "backend": { "title": "Backend" },
+      "tools": { "title": "Herramientas y Cloud" },
+      "extra": { "title": "Extras" }
+    },
+    "cta": {
+        "viewAll": "Ver todas mis habilidades",
+        "technologies": "Tecnologías que uso"
+      }
+  },
+
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿Tienes algún proyecto, idea o propuesta? Escríbeme.",
+    "cta": {
+      "sendMessage": "Enviar mensaje",
+      "letsTalk": "Hablemos",
+      "bookCall": "Agendar llamada",
+      "alert": "Mensaje enviado correctamente (simulado)"
+    },
+    "fields": {
+    "name": "Tu nombre",
+    "email": "Tu correo",
+    "message": "Tu mensaje"
+  }
+  },
+
+"profile": {
+  "title": "Perfil Profesional",
+  "description": "Soy un desarrollador full-stack, contador, educador y especialista en tecnología con una sólida trayectoria en múltiples áreas profesionales.",
+  "experience": {
+    "title": "Experiencia",
+    "text": "14 años en educación\n8 años como profesor\n3 años como coordinador\nContador profesional\nDesarrollador de software"
+  },
+  "languages": {
+    "title": "Idiomas",
+    "text": "Español \nInglés Upper-Intermediate\nFrancés Avanzado\nCreole Haitiano"
+  },
+  "cta": { "cv": "Descargar CV" }
 }
+
+}
+
+
